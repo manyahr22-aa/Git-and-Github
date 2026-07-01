@@ -1,0 +1,12 @@
+h{
+    color: brown;
+    border: 2px;
+    padding: 20px;
+    margin: 20px;
+    width: 2px auto;
+}
+p{
+    text-align: center;
+    justify-content: center;
+    color: azure;
+}
